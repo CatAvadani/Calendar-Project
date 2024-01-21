@@ -1,5 +1,8 @@
 A collaborative school project, crafted by our group of three, this project demonstrates our skills in web development and Git/GitHub collaboration. Users can easily create and schedule todos, while a visually appealing interface showcases a todo list on the left and an interactive calendar on the right. Join our journey as we bring this educational project to life, learning and growing together in the process.
 
+Authors:
+Catalina Avadani, Linus Ansas and Jonatan Helander
+
 # Kalenderverktyg i Javascript.
 
 ## Installation
